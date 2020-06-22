@@ -3,6 +3,13 @@
 {
     text-align: center;
 }
+/*Easter Egg for cool kids*/
+#sloppyjoe
+{
+    color: fuchsia;
+    text-align: right;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
 /*
 body{
 
